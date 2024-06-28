@@ -4,13 +4,13 @@ This code example demonstrates the implementation of a Bluetooth&reg; LE custom 
 
 [View this README on GitHub.](https://github.com/Infineon/mtb-example-btstack-freertos-ccc-scan)
 
-[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMzkzOTEiLCJTcGVjIE51bWJlciI6IjAwMi0zOTM5MSIsIkRvYyBUaXRsZSI6IkJsdWV0b290aCZyZWc7IExFIENhciBDb25uZWN0aXZpdHkgQ29uc29ydGl1bSAoQ0NDKSBTY2FuIiwicmlkIjoibWFveGluIiwiRG9jIHZlcnNpb24iOiIxLjAuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJJQ1ciLCJEb2MgRmFtaWx5IjoiQlRBQkxFIn0=)
+[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMzkzOTEiLCJTcGVjIE51bWJlciI6IjAwMi0zOTM5MSIsIkRvYyBUaXRsZSI6IkJsdWV0b290aCZyZWc7IExFIENhciBDb25uZWN0aXZpdHkgQ29uc29ydGl1bSAoQ0NDKSBTY2FuIiwicmlkIjoibWFveGluIiwiRG9jIHZlcnNpb24iOiIyLjAuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJJQ1ciLCJEb2MgRmFtaWx5IjoiQlRBQkxFIn0=)
 
 
 ## Requirements
 
-- [ModusToolbox&trade;](https://www.infineon.com/modustoolbox) v3.1 or later (tested with v3.1)
-- Board support package (BSP) minimum required version for CYW989829M2EVB-01: v1.0.1
+- [ModusToolbox&trade;](https://www.infineon.com/modustoolbox) v3.2 or later (tested with v3.2)
+- Board support package (BSP) minimum required version for CYW989829M2EVB-01: v2.0.0
 - Programming language: C
 
 
@@ -339,6 +339,7 @@ Document title: *CE239391* – *Bluetooth&reg; LE Car Connectivity Consortium (C
  Version | Description of change
  ------- | ---------------------
  1.0.0   | New code example
+ 2.0.0   | BSP and BTStack-integration major update for BT Firmware as a separate asset 
 
 <br>
 
